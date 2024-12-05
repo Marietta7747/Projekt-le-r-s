@@ -56,13 +56,49 @@
 - Könnyen használható, értelmezhető utasinformáció megvalósítása.
 - A helyi járatos közlekedés és a tömegközlekedés használatának népszerűsítése  
 
-# Milyen hardver és szoftver eszközök?
+# Milyen hardver és szoftver eszközök szükségesek felhasználoknak?
 
 - **Windows, macOS, Linux operációs rendszer**
 - **Google Chrome, Mozilla Firefox, Microsoft Edge, Safari Böngésző**
 - **Bármilyen okostelefon, táblagép, vagy személyi számítógép**
 - **Minimum 1024 x 768 pixel képernyőfelbontás**
-- **Stabil internetkapcsolat szükséges a weboldal teljes funkcionalitásához**  
+- **Stabil internetkapcsolat szükséges a weboldal teljes funkcionalitásához**
+
+# Milyen komponensek szükségesek?
+Frontend 
+
+Felhasználóbarát dizájn és intuitív kezelőfelület.
+Reszponzív kialakítás, hogy asztali gépen és mobilon is jól működjön.
+Technológiák: HTML, CSS, JavaScript.
+
+Backend 
+
+Az üzleti logika és adatok feldolgozása.
+API-k a frontend és az adatbázis közötti kommunikációhoz.
+Node.js, PHP.
+
+Adatbázis
+
+Az alkalmazás által használt adatok tárolására.
+Relációs MySQL típusú adatbázis a szükségletektől függően.
+Biztonsági megoldások
+
+Hitelesítés és jogosultságkezelés.
+Adatvédelem és titkosítás.
+
+Infrastruktúra
+
+Felhőalapú szolgáltatások (pl. Google Cloud) vagy helyi szerverek.
+
+Tesztelési keretrendszerek
+
+Automatizált tesztek 
+Folyamatos integráció eszközökkel GitHub Actions.
+
+Dokumentáció
+
+Felhasználói és fejlesztői dokumentáció a könnyebb karbantartás érdekében.
+
 <span style="float: right;">  
 **Készítette: Bogdán László, Falka Marietta**
 </span>
